@@ -4,7 +4,6 @@ about: issue template
 title: ''
 labels: docs
 assignees: '''
-
 ---
 
 ### 이슈
