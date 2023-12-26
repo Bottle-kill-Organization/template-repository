@@ -1,2 +1,19 @@
-# template-repository
-template repository
+# 프로젝트 제목(Title)
+
+`project name`
+
+## 개요(Overview)
+
+* 프로젝트에 대한 간략한 설명과 사용 개요.
+
+### 목표(Objective)
+
+* 프로젝트의 목표를 설명합니다.
+
+### 프로그램 실행하기(생략 가능)
+
+* 필수 준비(Required Preparation)
+    * 필수적으로 설치되어야 하는 프로그램이나 라이브러리가 있다면 설치 방법을 설명합니다.
+* 프로그램을 실행하는 방법
+    * 실행 커맨드 , 사전 설치 등
+
