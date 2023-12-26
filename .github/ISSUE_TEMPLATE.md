@@ -3,7 +3,7 @@ name: issue template
 about: issue template
 title: ''
 labels: docs
-assignees: '''
+assignees: ''
 ---
 
 ### 이슈
